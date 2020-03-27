@@ -51,7 +51,7 @@
 /* Constants that aren't configurable in menuconfig */
 #define WEB_SERVER "eletronica-ab6b1.firebaseio.com"
 #define WEB_PORT "443"
-#define WEB_URL "/January.json?auth=DZSQwLoNWAneWA9BcEfAgnelmY965pq98HF4pITU"   //it is not the original value here...
+#define WEB_URL "/January.json?auth=DZSQwLoNWAneWA9BcEfAgne"   //it is not the original value here...
 
 static const char *TAG = "example";
 
